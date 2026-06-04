@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Handjet:wght@400;700&display=swap');
+
+
+
+html, body, #root {
+ height: 100vh;
+ font-family: 'Quicksand', sans-serif;
+ margin: 0;
+}
+
+.project-container {
+    display: flex;
+    height: 100%;
+}
+
+input, button {
+    border-radius: 5px;
+    border: 1px solid rgb(222, 233, 238);
+    padding: 0.5rem;
+    width: 100%;
+    outline:none;
+    &:hover {
+        border: 2px solid rgb(181, 212, 226);
+        box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+
+    }
+}
+
+button {
+    width: auto;
+}

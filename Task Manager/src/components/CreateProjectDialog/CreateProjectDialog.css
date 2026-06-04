@@ -1,0 +1,23 @@
+
+dialog[open] {
+
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    border: 1px solid #dadada;
+    border-radius: 12px;
+    
+    div {
+    padding: 1rem;
+    
+    }
+
+    .buttons-container {
+        display: flex;
+        justify-content: flex-end;
+        gap: 1rem;
+        padding: 0;
+    }
+    
+}
