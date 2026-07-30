@@ -1,0 +1,23 @@
+{
+  "hash": "f331f3b5",
+  "browserHash": "7a44928c",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "8d8628f4",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "4148764e",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-ZMLDCQEW": {
+      "file": "chunk-ZMLDCQEW.js"
+    }
+  }
+}
