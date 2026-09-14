@@ -1,7 +1,7 @@
 import { useDispatch, useSelector } from "react-redux"
 import classes from './Counter.module.css';
 
-// Entre useStore y useSelector mejor usar el segundo a que permit selecionar una parte de la store
+// Entre useStore y useSelector mejor usar el segundo ya que permite selecionar una parte de la store
 
 const Counter = () => {
 
