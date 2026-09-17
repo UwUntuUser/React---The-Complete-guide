@@ -1,4 +1,18 @@
-1. React Router
+1. Redux
+	- Redux y slices
+
+2. React Router
 	- Routes
 	- Nested Routes
-	- Loader
+	- Loader & useLoaderData
+	- Response object y useRouteError
+	- useNavigation() y el estado de la navegacion (idle, navigation, submitting)
+	- 370 ->json() para simplificar las respuestas
+	- 371 -> loader con parametros
+	- 372 -> useRouteLoaderData en vez de useLoaderData
+	- 374 y 375 -> action(), redirect() y submit()
+	- 377 -> useActionData()
+	- 380 deferring data fetch with defer()
+
+1. Authentication
+	- 389 -> useSearchParams()
