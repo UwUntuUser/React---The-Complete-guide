@@ -14,5 +14,10 @@
 	- 377 -> useActionData()
 	- 380 deferring data fetch with defer()
 
-1. Authentication
+3. Authentication
 	- 389 -> useSearchParams()
+
+4. Deploying y Lazy Loading
+	- 404 -> Añadir lazy loading
+	- 405 -> npm run build
+	- 406 -> firebase
