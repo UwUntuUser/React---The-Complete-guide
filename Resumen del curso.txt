@@ -21,3 +21,14 @@
 	- 404 -> Añadir lazy loading
 	- 405 -> npm run build
 	- 406 -> firebase
+
+5. React Query
+	- 411 y 412 -> useQuery hook, queryFn, queryKey y staleTime
+	- 414 		-> abortar peticiones con signals
+	- 415		-> activar y desactivar queries con isLoading/isPending y enabled
+	- 416		-> useMutation para peticiones POST
+	- 425		-> onMutate, queryClient.cancelQuery([id]) y queryClient.setQueryData([id], data)
+
+6. Next.js
+
+7. React Server Components
