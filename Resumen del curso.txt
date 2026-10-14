@@ -32,3 +32,8 @@
 6. Next.js
 
 7. React Server Components
+	- 509 -> Componentes que se ejeuctan en cliente vs servidor
+	- 510 -> Hacer que un componente se renderize en cliente con "use client"
+	- 511 -> Anidar RSC y Client Components -> RSCDemo.js y CLientDemo.js
+	- 512 -> Fetching data with RSC -> Component DataFetchingDemo.js
+	- 513 -> "useServer" usado inline en formActions para transformarlo en serverActions -> Component ServerActionsDemo.js
