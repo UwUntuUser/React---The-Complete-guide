@@ -1,3 +1,6 @@
+https://github.com/academind/react-complete-guide-code/tree/zz-reactjs-summary-updated
+
+
 1. Redux
 	- Redux y slices
 
@@ -30,7 +33,19 @@
 	- 425		-> onMutate, queryClient.cancelQuery([id]) y queryClient.setQueryData([id], data)
 
 6. Next.js
-
+	- 429 		-> npx create-next-app@latest
+	- 432 		-> Link de next.js para navegar entre paginas y que se mantenga en una SPA
+	- 434 		-> jsconfig para entrutar imports con @. page.js/layout.js etc... Nombres de fichero reservados cuando crear algo bajo /app
+	- 447 y 448 -> server vs client components
+	- 449		-> componented con listas con slug
+	- 450		-> SQL Lite
+	- 452		-> Loading.js
+	- 455		-> Error.js y NotFound.js
+	- 462		-> Server actions y como usar "use server" dentro de una funcion que pertenece a un form
+	- 464		-> npm install slugify
+	- 469		-> npm run build y npm start para preparar el codigo para produccion
+	- 470		-> revalidatePath('/somePath') para refrescar la cache que Next guarda agresivamente durante npm run build
+	- 472		-> AWS para guardar ficheros que no deben ir en un local filestorage
 7. React Server Components
 	- 509 -> Componentes que se ejeuctan en cliente vs servidor
 	- 510 -> Hacer que un componente se renderize en cliente con "use client"
