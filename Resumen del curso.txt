@@ -46,6 +46,12 @@ https://github.com/academind/react-complete-guide-code/tree/zz-reactjs-summary-u
 	- 469		-> npm run build y npm start para preparar el codigo para produccion
 	- 470		-> revalidatePath('/somePath') para refrescar la cache que Next guarda agresivamente durante npm run build
 	- 472		-> AWS para guardar ficheros que no deben ir en un local filestorage
+	- 492		-> getStaticProps vs useEffect
+	- 496		-> getStaticPath
+	- 503		-> vercel para desplegar next
+
+	- 506		-> https://github.com/academind/react-complete-guide-course-resources/tree/main/code/25%20NextJS%20App%20Router%20Introduction
+				-> https://github.com/academind/react-complete-guide-course-resources/tree/main/code/25%20NextJS%20Introduction
 7. React Server Components
 	- 509 -> Componentes que se ejeuctan en cliente vs servidor
 	- 510 -> Hacer que un componente se renderize en cliente con "use client"
